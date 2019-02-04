@@ -1,0 +1,21 @@
+* {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+body {
+    background: #f3f3f3;
+    color: rgba(0,0,0,1);
+    font-size:13px;
+
+}
+
+header {
+    background: rgba(255,255,255,1);
+    height:60px;
+    width:100%;
+    display:block;
+    box-shadow: 1px 0px 0px 1px rgba(0,0,0,0.05);
+    position: fixed;
+    margin-bottom:20px;
+}
